@@ -1,0 +1,7 @@
+*.mtl
+*.obj
+
+/cmake-build-debug
+.vscode
+.idea
+*.ppm
